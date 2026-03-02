@@ -153,7 +153,11 @@ This also ensures that all groups are given the same space.
 * **Spokeperson:** Elias R. Most <emost@caltech.edu>
 * **URL:** https://academic.oup.com/mnras/article/490/3/3588/5585413
 
+### IllinoisGRMHD/GRHayLHD
 
+* **Spokesperson:** Miquel Miravet-Tenés <m.miravet-tenes@soton.ac.uk>
+* **URL:** https://iopscience.iop.org/article/10.1088/0264-9381/32/17/175009
+* **URL:** https://einsteintoolkit.org/thornguide/GRHayLET/GRHayLHD/documentation.html
 
 ## Policies
 
