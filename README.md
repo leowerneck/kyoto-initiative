@@ -177,6 +177,10 @@ This also ensures that all groups are given the same space.
 * **Spokesperson:** Luis Felipe Longo Micchi <luis.felipe.longo.micchi@uni-jena.de> 
 * **URL:** https://computationalrelativity.github.io/grathenacode/
 
+### GRACE
+* **Spokesperson:** Carlo Musolino <carlo.musolino@aei.mpg.de>
+* **URL:** https://github.com/GRACE-astro/grace/tree/main
+
 ### IllinoisGRMHD/GRHayLHD
 
 * **Spokesperson:** Miquel Miravet-Tenés <m.miravet-tenes@soton.ac.uk>
