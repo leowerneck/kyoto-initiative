@@ -156,6 +156,10 @@ substitute. Only the representative of each group joins the telecons (or
 a substitute), as keeping the group small will improve our efficiency.
 This also ensures that all groups are given the same space. 
 
+### AsterX
+
+* **Spokesperson:** Jay Kalinani <jkalinan@illinois.edu>
+* **URL:** https://github.com/EinsteinToolkit/AsterX
 
 ### AthenaK
 
