@@ -187,9 +187,9 @@ This also ensures that all groups are given the same space.
 
 ### IllinoisGRMHD/GRHayLHD
 
-* **Spokesperson:** Miquel Miravet-Tenés <m.miravet-tenes@soton.ac.uk>
-* **URL:** https://iopscience.iop.org/article/10.1088/0264-9381/32/17/175009
-* **URL:** https://einsteintoolkit.org/thornguide/GRHayLET/GRHayLHD/documentation.html
+* **Spokesperson:** Leo Werneck <leonardo@uidaho.edu>
+* **URL:** https://journals.aps.org/prd/abstract/10.1103/bbtm-31r5
+* **URL:** https://einsteintoolkit.org/thornguide/GRHayLET/IllinoisGRMHD/documentation.html
 
 ### NANASI
 
